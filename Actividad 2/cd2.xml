@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet href="cd_p4.xsl" type="text/xsl"?>
+<cds>
+    <cd>
+        <titulo>Steel Wheels</titulo>
+        <artista>The Rolling Stones</artista>
+        <cancion tiempo="216">Sad Sad Sad</cancion>
+        <cancion tiempo="250">Can't Be Seen</cancion>
+        <cancion tiempo="188">Break the Spell</cancion>
+        <sello>Rolling Stones Records</sello>
+        <anyo>1989</anyo>
+    </cd>
+    <cd>
+        <titulo>The Dark Side of the Moon</titulo>
+        <artista>Pink Floyd</artista>
+        <cancion tiempo="215">On The Run</cancion>
+        <cancion tiempo="121">Eclipse</cancion>
+        <cancion tiempo="425">Time</cancion>
+        <sello>Capitol Records</sello>
+        <anyo>1973</anyo>
+    </cd>
+    <cd>
+        <titulo>Thriller</titulo>
+        <artista>Michael Jackson</artista>
+        <cancion tiempo="258">Beat It</cancion>
+        <cancion tiempo="246">Human Nature</cancion>
+        <cancion tiempo="358">Thriller</cancion>
+        <sello>Epic Records</sello>
+        <anyo>1982</anyo>
+    </cd>
+    <cd>
+        <titulo>The Bodyguard</titulo>
+        <artista>Whitney Houston</artista>
+        <cancion tiempo="264">Run to You</cancion>
+        <cancion tiempo="263">Jesus Loves Me</cancion>
+        <cancion tiempo="420">I have Nothing</cancion>
+        <sello>Arista Records</sello>
+        <anyo>1992</anyo>
+    </cd>
+    <cd>
+        <titulo>Back in Black</titulo>
+        <artista>AC/DC</artista>
+        <cancion tiempo="369">Back In Black</cancion>
+        <cancion tiempo="215">Hells Bells</cancion>
+        <cancion tiempo="321">Shake A Leg</cancion>
+        <sello>Atlantic Records</sello>
+        <anyo>1980</anyo>
+    </cd>
+    <cd>
+        <titulo>Hot Rocks 1964-1971</titulo>
+        <artista>The Rolling Stones</artista>
+        <cancion tiempo="213">Heart Of Stone</cancion>
+        <cancion tiempo="323">Paint it Black</cancion>
+        <cancion tiempo="212">Play With Fire</cancion>
+        <sello>Rolling Stones Records</sello>
+        <anyo>1971</anyo>
+    </cd>
+    <cd>
+        <titulo>Their Greatest Hits</titulo>
+        <artista>Eagles</artista>
+        <cancion tiempo="332">Take it Easy</cancion>
+        <cancion tiempo="334">Desperado</cancion>
+        <cancion tiempo="253">Tequila Sunrise</cancion>
+        <sello>Asylum Records</sello>
+        <anyo>1976</anyo>
+    </cd>
+    <cd>
+        <titulo>Saturday Night Fever</titulo>
+        <artista>Bee Gees</artista>
+        <cancion tiempo="125">Night Fever</cancion>
+        <cancion tiempo="269">More Than a Woman</cancion>
+        <cancion tiempo="351">Salsation</cancion>
+        <sello>RSO Records</sello>
+        <anyo>1977</anyo>
+    </cd>
+    <cd>
+        <titulo>Rumours</titulo>
+        <artista>Fleetwood Mac</artista>
+        <cancion tiempo="417">Dreams</cancion>
+        <cancion tiempo="313">Don't Stop</cancion>
+        <cancion tiempo="226">Oh Daddy</cancion>
+        <sello>Warner Records</sello>
+        <anyo>1977</anyo>
+    </cd>
+    <cd>
+        <titulo>Appetite for Destruction</titulo>
+        <artista>Guns N' Roses</artista>
+        <cancion tiempo="428">Nightrain</cancion>
+        <cancion tiempo="140">My Michelle</cancion>
+        <cancion tiempo="433">Welcome to the Jungle</cancion>
+        <sello>Geffen Records</sello>
+        <anyo>1987</anyo>
+    </cd>
+</cds>

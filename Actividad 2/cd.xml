@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet href="cd_p4.xsl" type="text/xsl"?>
+<cds>
+    <cd>
+        <titulo>Steel Wheels</titulo>
+        <artista>The Rolling Stones</artista>
+        <canciones>
+            <cancion>
+                <titulo>Sad Sad Sad</titulo>
+                <duracion>216</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Can't Be Seen</titulo>
+                <duracion>250</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Break the Spell</titulo>
+                <duracion>188</duracion>
+            </cancion>
+        </canciones>
+        <selloDiscografico>Rolling Stones Records</selloDiscografico>
+        <anoPublicacion>1989</anoPublicacion>
+    </cd>
+    <cd>
+        <titulo>The Dark Side of the Moon</titulo>
+        <artista>Pink Floyd</artista>
+        <canciones>
+            <cancion>
+                <titulo>On The Run</titulo>
+                <duracion>215</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Eclipse</titulo>
+                <duracion>121</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Time</titulo>
+                <duracion>425</duracion>
+            </cancion>
+        </canciones>
+        <selloDiscografico>Capitol Records</selloDiscografico>
+        <anoPublicacion>1973</anoPublicacion>
+    </cd>
+    <cd>
+        <titulo>Thriller</titulo>
+        <artista>Michael Jackson</artista>
+        <canciones>
+            <cancion>
+                <titulo>Beat It</titulo>
+                <duracion>258</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Human Nature</titulo>
+                <duracion>246</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Thriller</titulo>
+                <duracion>358</duracion>
+            </cancion>
+        </canciones>
+        <selloDiscografico>Epic Records</selloDiscografico>
+        <anoPublicacion>1982</anoPublicacion>
+    </cd>
+    <cd>
+        <titulo>The Bodyguard</titulo>
+        <artista>Whitney Houston</artista>
+        <canciones>
+            <cancion>
+                <titulo>Run to You</titulo>
+                <duracion>264</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Jesus Loves Me</titulo>
+                <duracion>263</duracion>
+            </cancion>
+            <cancion>
+                <titulo>I have Nothing</titulo>
+                <duracion>420</duracion>
+            </cancion>
+        </canciones>
+        <selloDiscografico>Arista Records</selloDiscografico>
+        <anoPublicacion>1992</anoPublicacion>
+    </cd>
+    <cd>
+        <titulo>Back in Black</titulo>
+        <artista>AC/DC</artista>
+        <canciones>
+            <cancion>
+                <titulo>Back In Black</titulo>
+                <duracion>369</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Hells Bells</titulo>
+                <duracion>215</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Shake A Leg</titulo>
+                <duracion>321</duracion>
+            </cancion>
+        </canciones>
+        <selloDiscografico>Atlantic Records</selloDiscografico>
+        <anoPublicacion>1980</anoPublicacion>
+    </cd>
+    <cd>
+        <titulo>Hot Rocks 1964-1971</titulo>
+        <artista>The Rolling Stones</artista>
+        <canciones>
+            <cancion>
+                <titulo>Heart Of Stone</titulo>
+                <duracion>213</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Paint it Black</titulo>
+                <duracion>323</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Play With Fire</titulo>
+                <duracion>212</duracion>
+            </cancion>
+        </canciones>
+        <selloDiscografico>Rolling Stones Records</selloDiscografico>
+        <anoPublicacion>1971</anoPublicacion>
+    </cd>
+    <cd>
+        <titulo>Their Greatest Hits</titulo>
+        <artista>Eagles</artista>
+        <canciones>
+            <cancion>
+                <titulo>Take it Easy</titulo>
+                <duracion>332</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Desperado</titulo>
+                <duracion>334</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Tequila Sunrise</titulo>
+                <duracion>253</duracion>
+            </cancion>
+        </canciones>
+        <selloDiscografico>Asylum Records</selloDiscografico>
+        <anoPublicacion>1976</anoPublicacion>
+    </cd>
+    <cd>
+        <titulo>Saturday Night Fever</titulo>
+        <artista>Bee Gees</artista>
+        <canciones>
+            <cancion>
+                <titulo>Night Fever</titulo>
+                <duracion>125</duracion>
+            </cancion>
+            <cancion>
+                <titulo>More Than a Woman</titulo>
+                <duracion>269</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Salsation</titulo>
+                <duracion>351</duracion>
+            </cancion>
+        </canciones>
+        <selloDiscografico>RSO Records</selloDiscografico>
+        <anoPublicacion>1977</anoPublicacion>
+    </cd>
+    <cd>
+        <titulo>Rumours</titulo>
+        <artista>Fleetwood Mac</artista>
+        <canciones>
+            <cancion>
+                <titulo>Dreams</titulo>
+                <duracion>417</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Don't Stop</titulo>
+                <duracion>313</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Oh Daddy</titulo>
+                <duracion>226</duracion>
+            </cancion>
+        </canciones>
+        <selloDiscografico>Warner Records</selloDiscografico>
+        <anoPublicacion>1977</anoPublicacion>
+    </cd>
+    <cd>
+        <titulo>Appetite for Destruction</titulo>
+        <artista>Guns N' Roses</artista>
+        <canciones>
+            <cancion>
+                <titulo>Nightrain</titulo>
+                <duracion>428</duracion>
+            </cancion>
+            <cancion>
+                <titulo>My Michelle</titulo>
+                <duracion>140</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Welcome to the Jungle</titulo>
+                <duracion>433</duracion>
+            </cancion>
+        </canciones>
+        <selloDiscografico>Geffen Records</selloDiscografico>
+        <anoPublicacion>1987</anoPublicacion>
+    </cd>
+</cds>
